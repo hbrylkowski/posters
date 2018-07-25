@@ -4,5 +4,5 @@ Here you can find my posters
 
 ## Asynchronous communication at scale
 
-[pdf](EP2018/poster.pdf)
-![svg](EP2018/poster.pdf)
+[pdf file to read](EP2018/poster.pdf)
+
